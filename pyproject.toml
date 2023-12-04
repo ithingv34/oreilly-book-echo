@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "oreilly-book-echo"
-version = "0.1.0"
+name = "oreilly_book_echo"
+version = "0.0.1"
 description = "Description of your package"
 authors = ["ithingv34 <ithingv34@gmail.com>"]
 readme = "README.md"
